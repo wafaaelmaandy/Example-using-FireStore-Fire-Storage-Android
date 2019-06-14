@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">firestore</string>
+    <string name="enter_text">enter text</string>
+    <string name="insert_photo">insert_photo</string>
+    <string name="send">send</string>
+    <!--  <string name="default_web_client_id" translatable="false">262547976370-n8jqc8lb8vr3a4r1pa35l5k886kr3j1k.apps.googleusercontent.com</string>
+      <string name="firebase_database_url" translatable="false">https://onlineapp-d26bc.firebaseio.com</string>
+      <string name="gcm_defaultSenderId" translatable="false">262547976370</string>
+      <string name="google_api_key" translatable="false">AIzaSyC9riy1Te6ZhpMB5e45_Y34AGTbFhZ8eL0</string>
+      <string name="google_app_id" translatable="false">1:262547976370:android:e115413e47a8d9b8</string> -->
+</resources>
